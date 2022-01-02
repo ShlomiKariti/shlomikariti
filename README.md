@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently deepening my knowledge about Web development and everything around it.
+- 🔭 &nbsp; I’m currently deepening my knowledge about WEB development and everything around it.
 - ⚡ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Fullstack / Backend Developer / Frontend Developer.
 - 🌱 &nbsp; Enthusiastic about Artificial Intelligence and Investing.
