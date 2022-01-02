@@ -15,7 +15,7 @@
 - 💻 &nbsp; Java | Spring
 - 🌐 &nbsp; Angular | TypeScript | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | PLSQL
-- 🔧 &nbsp; Visual Studio Code | Eclipse | Git | IntelliJ
+- 🔧 &nbsp; Visual Studio Code | Eclipse | Git | IntelliJ | BitBucket | Jira
 
 </br>
 
