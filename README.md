@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently deepening my knowledge about Spring framework and everything around it.
+- 🔭 &nbsp; I’m currently deepening my knowledge about Web development and everything around it.
 - ⚡ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Fullstack / Backend Developer.
+- 💼 &nbsp; Fullstack / Backend Developer / Frontend Developer.
 - 🌱 &nbsp; Enthusiastic about Artificial Intelligence and Investing.
 - ✍️ &nbsp; Watching Anime and Playing Video Games.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
